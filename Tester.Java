@@ -1,6 +1,7 @@
 public class Tester {
     public static void main(String[] args) {
         Board b = new Board();
-        b.getBoardSpot(7,7);
+        System.out.println(b.getBoardSpot(1,2));
     }
+    
 }
